@@ -11,4 +11,6 @@ Find the key word
 
 And dont egnor anything
 
-Use nano
+Use only nano 
+
+For termux . this tool is fore termux user
