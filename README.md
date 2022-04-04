@@ -14,3 +14,6 @@ And dont egnor anything
 Use only nano 
 
 For termux . this tool is fore termux user
+
+For any doubts contact:  https://wa.me/+916235369260
+By master-hack
