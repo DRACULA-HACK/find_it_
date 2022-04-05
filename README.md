@@ -1,6 +1,9 @@
 # find_it_
 
-Read this 
+Read this : 
+
+
+
 You get links with coded decode the links 
 And keys using a website link will be given
 In the game 
