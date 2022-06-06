@@ -10,7 +10,7 @@
 
 # By master-hack
 
-
+# echo " DJD8JU 
 
 termux-setup-storage
 	
